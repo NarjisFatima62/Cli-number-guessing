@@ -1,6 +1,6 @@
 {
   "name": "ze959n-cli-number-guessing",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "This is Cli based numbers guessing game",
   "main": "index.js",
   "type": "module",
