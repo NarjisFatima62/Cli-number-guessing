@@ -1,0 +1,24 @@
+{
+  "name": "ze959n-cli-number-guessing",
+  "version": "2.0.0",
+  "description": "This is Cli based numbers guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "ze868n-cli-number-guessing": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NarjisFatima62",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}
